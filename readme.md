@@ -70,7 +70,7 @@ Total Cost: 6
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here*
+
 > ![a_star result](screenshots/a_star_result.png)
 
 **Real-World Applications:**
@@ -107,7 +107,7 @@ Total Cost: 6
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here*
+
 > ![a_star2 result](screenshots/a_star2_result.png)
 
 **Real-World Applications:**
@@ -167,7 +167,7 @@ Frequent Item Pairs: [(('bread', 'milk'), 0.6), (('bread', 'butter'), 0.4), (('m
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here*
+
 > ![apriori1 result](screenshots/apriori1_result.png)
 
 **Insights:**
@@ -207,10 +207,10 @@ Movie Combinations: [(('Avengers', 'IronMan'), 0.6)]
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here (bar + heatmap chart)*
+
 > ![apriori2 bar result](screenshots/apriori2_bar_result.png)
 
-> 📷 *Attach screenshot here (co-occurrence network graph)*
+
 > ![apriori2 network result](screenshots/apriori2_network_result.png)
 
 **Insights:**
@@ -288,7 +288,7 @@ Best Schedule: {'Period 1': 'A', 'Period 2': 'B', 'Period 3': 'D', 'Period 4': '
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here*
+
 > ![genetic_algorythm result](screenshots/genetic_algorythm_result.png)
 
 **Insights:**
@@ -326,7 +326,7 @@ Total Distance:  11.7727
 
 **Result Graph:**
 
-> 📷 *Attach screenshot here*
+
 > ![genetic_algorythm2 result](screenshots/genetic_algorythm2_result.png)
 
 **Insights:**
